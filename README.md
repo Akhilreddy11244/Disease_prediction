@@ -29,7 +29,7 @@ two CSV files one for training and one for testing. There is a total of 133
 columns in the dataset out of which 132 columns represent the symptoms and 
 the last column is the prognosis.
 Data set download URL: -
-https://www.kaggle.com/datasets/kaushil268/disease-prediction-usingmachine-learning
+https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
 ***
 
 
